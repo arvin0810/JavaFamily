@@ -287,6 +287,7 @@ HashMap常见面试题：
 
 - HashMap的底层数据结构？
 - HashMap的存取原理？
+- 1.通过hashcode找到数组中的某一元素，2.通过key的equals方法在链表中找到key对应的value
 - Java7和Java8的区别？
 - 为啥会线程不安全？
 - 有什么线程安全的类代替么?
