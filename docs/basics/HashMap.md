@@ -291,6 +291,7 @@ HashMap常见面试题：
 - 1.通过hashcode找到数组中的某一元素，2.通过key的equals方法在链表中找到key对应的value
 - Java7和Java8的区别？
 - 为啥会线程不安全？
+> https://my.oschina.net/hosee/blog/673521
 - 有什么线程安全的类代替么?
 - 默认初始化大小是多少？为啥是这么多？为啥大小都是2的幂？
 > 以2的4次方举例，来解释一下为什么数组大小为2的幂时hashmap访问的性能最高。 
